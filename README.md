@@ -30,3 +30,5 @@ An operation failed because it depends on one or more records that were required
   batchRequestIdx: undefined
 }
 ```
+
+Related comment in [issue #15837](https://github.com/prisma/prisma/issues/15837#issuecomment-1355989745).
