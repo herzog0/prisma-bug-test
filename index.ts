@@ -7,7 +7,7 @@ async function main() {
         where: {
             id: 1,
             name: {
-                not: ""
+                not: "Bob"
             }
         },
         data: {
